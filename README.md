@@ -10,6 +10,7 @@ This project is implemented using various algorithms like edit-distance, Boyre M
 * [HTML](http://www.dropwizard.io/1.0.2/docs/)
 * [Bootstrap](https://getbootstrap.com/)
 * [Jquery](https://jquery.com/)
+* [Java](https://www.java.com/en/)
 * [Servlet](https://www.oracle.com/technetwork/java/index-jsp-135475.html)
 * [Jsp](https://www.oracle.com/technetwork/java/javaee/jsp/index.html)
 * [Jsoup](https://jsoup.org/)
