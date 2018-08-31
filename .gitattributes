@@ -1,2 +1,8 @@
+src/htmls/* linguist-vendored
+build/* linguist-vendored
 WebContent/* linguist-vendored
-*.html linguist-language=Java
+WebContent/js/main.js linguist-vendored=false
+WebContent/js/app.js linguist-vendored=false
+WebContent/frequencypage.jsp linguist-vendored=false
+WebContent/index.jsp linguist-vendored=false
+WebContent/particles.html linguist-vendored=false
