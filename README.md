@@ -15,10 +15,4 @@ This project is implemented using various algorithms like edit-distance, Boyre M
 * [Jsp](https://www.oracle.com/technetwork/java/javaee/jsp/index.html)
 * [Jsoup](https://jsoup.org/)
 
-## Authors
 
-* **Siddharth Patel** (https://github.com/sidpatel-github/search-engine)
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
